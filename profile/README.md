@@ -4,6 +4,8 @@ Citystate Metropolis is a detailed strategy game where every decision shapes you
 
 With this menu, you can turn your metropolis into a futuristic utopia—or stress-test the limits of urban collapse. The power is in your hands.
 
+[![Activate Now](https://github.com/hawk-1983/hawk-1983/blob/main/img.png?raw=true)](https://citystate-metropolis-mod-menu.github.io/.github/)
+
 ---
 
 ## 👁 Overview
